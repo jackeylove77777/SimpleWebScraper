@@ -1,0 +1,620 @@
+[
+    {
+        "name": "Acropora globiceps Coral",
+        "status": "ESA Threatened",
+        "year": "2014",
+        "region": "Pacific Islands"
+    },
+    {
+        "name": "Acropora jacquelineae Coral",
+        "status": "ESA Threatened",
+        "year": "2014",
+        "region": "Pacific Islands"
+    },
+    {
+        "name": "Acropora lokani Coral",
+        "status": "ESA Threatened - Foreign",
+        "year": "2014",
+        "region": "Foreign"
+    },
+    {
+        "name": "Acropora pharaonis Coral",
+        "status": "ESA Threatened - Foreign",
+        "year": "2014",
+        "region": "Foreign"
+    },
+    {
+        "name": "Acropora retusa Coral",
+        "status": "ESA Threatened",
+        "year": "2014",
+        "region": "Pacific Islands"
+    },
+    {
+        "name": "Acropora rudis Coral",
+        "status": "ESA Threatened - Foreign",
+        "year": "2014",
+        "region": "Foreign"
+    },
+    {
+        "name": "Acropora speciosa Coral",
+        "status": "ESA Threatened",
+        "year": "2014",
+        "region": "Pacific Islands"
+    },
+    {
+        "name": "Acropora tenella Coral",
+        "status": "ESA Threatened - Foreign",
+        "year": "2014",
+        "region": "Foreign"
+    },
+    {
+        "name": "Adriatic Sturgeon",
+        "status": "ESA Endangered - Foreign",
+        "year": "2014",
+        "region": "Foreign"
+    },
+    {
+        "name": "African Coelacanth",
+        "status": "ESA Threatened - Foreign",
+        "year": "2016",
+        "region": "Foreign"
+    },
+    {
+        "name": "Anacropora spinosa Coral",
+        "status": "ESA Threatened - Foreign",
+        "year": "2014",
+        "region": "Foreign"
+    },
+    {
+        "name": "Argentine Angelshark",
+        "status": "ESA Endangered - Foreign",
+        "year": "2017",
+        "region": "Foreign"
+    },
+    {
+        "name": "Atlantic Salmon (Protected)",
+        "status": "ESA Endangered",
+        "year": "2009 (expanded); 2000 (original)",
+        "region": "New England/Mid-Atlantic"
+    },
+    {
+        "name": "Atlantic Sturgeon",
+        "status": "ESA Endangered ESA Endangered ESA Endangered ESA Endangered ESA Threatened",
+        "year": "2012 2012 2012 2012 2012",
+        "region": "New England/Mid-Atlantic Southeast New England/Mid-Atlantic Southeast New England/Mid-Atlantic Southeast New England/Mid-Atlantic Southeast New England/Mid-Atlantic Southeast"
+    },
+    {
+        "name": "Banggai Cardinalfish",
+        "status": "ESA Threatened - Foreign",
+        "year": "2016",
+        "region": "Foreign"
+    },
+    {
+        "name": "Bearded Seal",
+        "status": "ESA Threatened ESA Threatened - Foreign",
+        "year": "2012 2012",
+        "region": "Alaska Foreign"
+    },
+    {
+        "name": "Beluga Whale",
+        "status": "ESA Endangered",
+        "year": "2008",
+        "region": "Alaska"
+    },
+    {
+        "name": "Black Abalone",
+        "status": "ESA Endangered",
+        "year": "2009",
+        "region": "West Coast"
+    },
+    {
+        "name": "Blackchin Guitarfish",
+        "status": "ESA Threatened - Foreign",
+        "year": "2017",
+        "region": "Foreign"
+    },
+    {
+        "name": "Blue Whale",
+        "status": "ESA Endangered",
+        "year": "1970",
+        "region": "Alaska New England/Mid-Atlantic Pacific Islands Southeast West Coast"
+    },
+    {
+        "name": "Bocaccio (Protected)",
+        "status": "ESA Endangered",
+        "year": "2010",
+        "region": "Alaska West Coast"
+    },
+    {
+        "name": "Boulder Star Coral",
+        "status": "ESA Threatened",
+        "year": "2014",
+        "region": "Southeast"
+    },
+    {
+        "name": "Bowhead Whale",
+        "status": "ESA Endangered",
+        "year": "1970",
+        "region": "Alaska"
+    },
+    {
+        "name": "Brazilian Guitarfish",
+        "status": "ESA Endangered - Foreign",
+        "year": "2017",
+        "region": "Foreign"
+    },
+    {
+        "name": "Cantharellus noumeae Coral",
+        "status": "ESA Endangered - Foreign",
+        "year": "2015",
+        "region": "Foreign"
+    },
+    {
+        "name": "Chambered Nautilus",
+        "status": "ESA Threatened",
+        "year": "2018",
+        "region": "Pacific Islands"
+    },
+    {
+        "name": "Chinese River Dolphin",
+        "status": "ESA Endangered - Foreign",
+        "year": "1989",
+        "region": "Foreign"
+    },
+    {
+        "name": "Chinese Sturgeon",
+        "status": "ESA Endangered - Foreign",
+        "year": "2014",
+        "region": "Foreign"
+    },
+    {
+        "name": "Chinook Salmon (Protected)",
+        "status": "ESA Endangered ESA Endangered ESA Threatened ESA Threatened ESA Threatened ESA Threatened ESA Threatened ESA Threatened ESA Threatened ESA Candidate ESA Experimental Population ESA Experimental Population",
+        "year": "1994 1999 1999 1999 1999 1999 1992 1992 2005 - - -",
+        "region": "Alaska West Coast Alaska West Coast Alaska West Coast Alaska West Coast Alaska West Coast Alaska West Coast Alaska West Coast Alaska West Coast Alaska West Coast Alaska West Coast Alaska West Coast Alaska West Coast"
+    },
+    {
+        "name": "Chum Salmon (Protected)",
+        "status": "ESA Threatened ESA Threatened",
+        "year": "1999 1999",
+        "region": "Alaska West Coast Alaska West Coast"
+    },
+    {
+        "name": "Coho Salmon (Protected)",
+        "status": "ESA Endangered ESA Threatened ESA Threatened ESA Threatened",
+        "year": "2005; 1996 (original) 2005 2008 1997",
+        "region": "Alaska West Coast Alaska West Coast Alaska West Coast Alaska West Coast"
+    },
+    {
+        "name": "Common Angelshark",
+        "status": "ESA Endangered - Foreign",
+        "year": "2016",
+        "region": "Foreign"
+    },
+    {
+        "name": "Common Guitarfish",
+        "status": "ESA Threatened - Foreign",
+        "year": "2017",
+        "region": "Foreign"
+    },
+    {
+        "name": "Daggernose Shark",
+        "status": "ESA Endangered - Foreign",
+        "year": "2017",
+        "region": "Foreign"
+    },
+    {
+        "name": "Dusky Sea Snake",
+        "status": "ESA Endangered - Foreign",
+        "year": "2015",
+        "region": "Foreign"
+    },
+    {
+        "name": "Dwarf Sawfish",
+        "status": "ESA Endangered - Foreign",
+        "year": "2014",
+        "region": "Foreign"
+    },
+    {
+        "name": "Elkhorn Coral",
+        "status": "ESA Threatened",
+        "year": "2006",
+        "region": "Southeast"
+    },
+    {
+        "name": "Eulachon",
+        "status": "ESA Threatened",
+        "year": "2010",
+        "region": "Alaska West Coast"
+    },
+    {
+        "name": "Euphyllia paradivisa Coral",
+        "status": "ESA Threatened",
+        "year": "2014",
+        "region": "Pacific Islands"
+    },
+    {
+        "name": "European Sturgeon",
+        "status": "ESA Endangered - Foreign",
+        "year": "2014",
+        "region": "Foreign"
+    },
+    {
+        "name": "False Killer Whale",
+        "status": "ESA Endangered",
+        "year": "2012",
+        "region": "Pacific Islands"
+    },
+    {
+        "name": "Fin Whale",
+        "status": "ESA Endangered",
+        "year": "1970",
+        "region": "Alaska New England/Mid-Atlantic Pacific Islands Southeast West Coast"
+    },
+    {
+        "name": "Giant Manta Ray",
+        "status": "ESA Threatened",
+        "year": "2018",
+        "region": "New England/Mid-Atlantic Pacific Islands Southeast"
+    },
+    {
+        "name": "Gray Whale",
+        "status": "ESA Endangered - Foreign",
+        "year": "1994; 1970 (original)",
+        "region": "Alaska West Coast"
+    },
+    {
+        "name": "Green Sawfish",
+        "status": "ESA Endangered - Foreign",
+        "year": "2014",
+        "region": "Foreign"
+    },
+    {
+        "name": "Green Sturgeon",
+        "status": "ESA Threatened",
+        "year": "2006",
+        "region": "Alaska West Coast"
+    },
+    {
+        "name": "Green Turtle",
+        "status": "ESA Endangered ESA Endangered ESA Endangered - Foreign ESA Threatened ESA Threatened ESA Threatened ESA Threatened ESA Threatened - Foreign ESA Threatened - Foreign ESA Threatened - Foreign ESA Threatened - Foreign",
+        "year": "2016 2016 2016 2016 2016 2016 2016 2016 2016 2016 2016",
+        "region": "Pacific Islands Pacific Islands Foreign Pacific Islands West Coast New England/Mid-Atlantic Southeast Southeast Foreign Foreign Foreign Foreign"
+    },
+    {
+        "name": "Guadalupe Fur Seal",
+        "status": "ESA Threatened",
+        "year": "1985",
+        "region": "Alaska West Coast"
+    },
+    {
+        "name": "Gulf Grouper",
+        "status": "ESA Endangered",
+        "year": "2016",
+        "region": "West Coast"
+    },
+    {
+        "name": "Gulf Sturgeon",
+        "status": "ESA Threatened",
+        "year": "1991",
+        "region": "Southeast"
+    },
+    {
+        "name": "Hawaiian Monk Seal",
+        "status": "ESA Endangered",
+        "year": "1976",
+        "region": "Pacific Islands"
+    },
+    {
+        "name": "Hawksbill Turtle",
+        "status": "ESA Endangered",
+        "year": "1970",
+        "region": "Pacific Islands Southeast Foreign"
+    },
+    {
+        "name": "Hector’s Dolphin",
+        "status": "ESA Endangered - Foreign ESA Threatened - Foreign",
+        "year": "2017 2017",
+        "region": "Foreign Foreign"
+    },
+    {
+        "name": "Humpback Whale",
+        "status": "ESA Endangered ESA Endangered ESA Endangered - Foreign ESA Endangered - Foreign ESA Threatened",
+        "year": "2016 2016 2016 2016 2016",
+        "region": "West Coast Alaska Foreign Foreign Alaska West Coast"
+    },
+    {
+        "name": "Indus River Dolphin",
+        "status": "ESA Endangered - Foreign",
+        "year": "1991",
+        "region": "Foreign"
+    },
+    {
+        "name": "Island Grouper",
+        "status": "ESA Threatened - Foreign",
+        "year": "2016",
+        "region": "Foreign"
+    },
+    {
+        "name": "Isopora crateriformis Coral",
+        "status": "ESA Threatened",
+        "year": "2014",
+        "region": "Pacific Islands"
+    },
+    {
+        "name": "Kaluga Sturgeon",
+        "status": "ESA Endangered - Foreign",
+        "year": "2014",
+        "region": "Foreign"
+    },
+    {
+        "name": "Kemp's Ridley Turtle",
+        "status": "ESA Endangered",
+        "year": "1970",
+        "region": "New England/Mid-Atlantic Southeast"
+    },
+    {
+        "name": "Killer Whale",
+        "status": "ESA Endangered",
+        "year": "2005",
+        "region": "Alaska West Coast"
+    },
+    {
+        "name": "Largetooth Sawfish",
+        "status": "ESA Endangered",
+        "year": "2014; 2011 (original)",
+        "region": "Southeast"
+    },
+    {
+        "name": "Leatherback Turtle",
+        "status": "ESA Endangered",
+        "year": "1970",
+        "region": "New England/Mid-Atlantic Pacific Islands Southeast West Coast Foreign"
+    },
+    {
+        "name": "Lobed Star Coral",
+        "status": "ESA Threatened",
+        "year": "2014",
+        "region": "Southeast"
+    },
+    {
+        "name": "Loggerhead Turtle",
+        "status": "ESA Endangered ESA Endangered - Foreign ESA Endangered - Foreign ESA Endangered - Foreign ESA Endangered - Foreign ESA Threatened ESA Threatened - Foreign ESA Threatened - Foreign ESA Threatened - Foreign",
+        "year": "2011 2011 2011 2011 2011 2011 2011 2011 2011",
+        "region": "Pacific Islands West Coast Foreign Foreign Foreign Foreign New England/Mid-Atlantic Southeast Foreign Foreign Foreign"
+    },
+    {
+        "name": "Mediterranean Monk Seal",
+        "status": "ESA Endangered - Foreign",
+        "year": "1970",
+        "region": "Foreign"
+    },
+    {
+        "name": "Montipora australiensis Coral",
+        "status": "ESA Threatened - Foreign",
+        "year": "2014",
+        "region": "Foreign"
+    },
+    {
+        "name": "Mountainous Star Coral",
+        "status": "ESA Threatened",
+        "year": "2014",
+        "region": "Southeast"
+    },
+    {
+        "name": "Narrow Sawfish",
+        "status": "ESA Endangered - Foreign",
+        "year": "2014",
+        "region": "Foreign"
+    },
+    {
+        "name": "Narrownose Smoothhound Shark",
+        "status": "ESA Threatened - Foreign",
+        "year": "2017",
+        "region": "Foreign"
+    },
+    {
+        "name": "Nassau Grouper",
+        "status": "ESA Threatened",
+        "year": "2016",
+        "region": "Southeast"
+    },
+    {
+        "name": "North Atlantic Right Whale",
+        "status": "ESA Endangered",
+        "year": "2008; 1970 (original)",
+        "region": "New England/Mid-Atlantic Southeast"
+    },
+    {
+        "name": "North Pacific Right Whale",
+        "status": "ESA Endangered",
+        "year": "2008; 1970 (original)",
+        "region": "Alaska West Coast"
+    },
+    {
+        "name": "Oceanic Whitetip Shark",
+        "status": "ESA Threatened",
+        "year": "2018",
+        "region": "New England/Mid-Atlantic Pacific Islands Southeast West Coast"
+    },
+    {
+        "name": "Olive Ridley Turtle",
+        "status": "ESA Endangered ESA Threatened",
+        "year": "1978 -",
+        "region": "Foreign Pacific Islands Southeast West Coast Foreign"
+    },
+    {
+        "name": "Pavona diffluens Coral",
+        "status": "ESA Threatened - Foreign",
+        "year": "2014",
+        "region": "Foreign"
+    },
+    {
+        "name": "Pillar Coral",
+        "status": "ESA Threatened",
+        "year": "2014",
+        "region": "Southeast"
+    },
+    {
+        "name": "Porites napopora Coral",
+        "status": "ESA Threatened - Foreign",
+        "year": "2014",
+        "region": "Foreign"
+    },
+    {
+        "name": "Rice's Whale",
+        "status": "ESA Endangered",
+        "year": "2019",
+        "region": "Southeast"
+    },
+    {
+        "name": "Ringed Seal",
+        "status": "ESA Endangered - Foreign ESA Endangered - Foreign ESA Threatened ESA Threatened - Foreign ESA Threatened - Foreign",
+        "year": "2012 1993 2012 (original); 2018 (reinstated) 2012 2012",
+        "region": "Foreign Foreign Alaska Foreign Foreign"
+    },
+    {
+        "name": "Rough Cactus Coral",
+        "status": "ESA Threatened",
+        "year": "2014",
+        "region": "Southeast"
+    },
+    {
+        "name": "Sakhalin Sturgeon",
+        "status": "ESA Endangered - Foreign",
+        "year": "2014",
+        "region": "Foreign"
+    },
+    {
+        "name": "Sawback Angelshark",
+        "status": "ESA Endangered - Foreign",
+        "year": "2016",
+        "region": "Foreign"
+    },
+    {
+        "name": "Scalloped Hammerhead Shark",
+        "status": "ESA Endangered ESA Endangered - Foreign ESA Threatened ESA Threatened",
+        "year": "2014 2014 2014 2014",
+        "region": "West Coast Foreign Southeast Pacific Islands"
+    },
+    {
+        "name": "Sei Whale",
+        "status": "ESA Endangered",
+        "year": "1970",
+        "region": "Alaska New England/Mid-Atlantic Pacific Islands Southeast West Coast"
+    },
+    {
+        "name": "Seriatopora aculeata Coral",
+        "status": "ESA Threatened",
+        "year": "2014",
+        "region": "Pacific Islands"
+    },
+    {
+        "name": "Shortnose Sturgeon",
+        "status": "ESA Endangered",
+        "year": "1967",
+        "region": "New England/Mid-Atlantic Southeast"
+    },
+    {
+        "name": "Smalltooth Sawfish",
+        "status": "ESA Endangered ESA Endangered - Foreign",
+        "year": "2003 2014",
+        "region": "Southeast Foreign Foreign"
+    },
+    {
+        "name": "Smoothback Angelshark",
+        "status": "ESA Endangered - Foreign",
+        "year": "2016",
+        "region": "Foreign"
+    },
+    {
+        "name": "Sockeye Salmon (Protected)",
+        "status": "ESA Endangered ESA Threatened",
+        "year": "1991 1999",
+        "region": "Alaska West Coast Alaska West Coast"
+    },
+    {
+        "name": "Southern Right Whale",
+        "status": "ESA Endangered - Foreign",
+        "year": "1970",
+        "region": "Foreign"
+    },
+    {
+        "name": "Sperm Whale",
+        "status": "ESA Endangered",
+        "year": "1970",
+        "region": "Alaska New England/Mid-Atlantic Pacific Islands Southeast West Coast"
+    },
+    {
+        "name": "Spiny Angelshark",
+        "status": "ESA Endangered - Foreign",
+        "year": "2017",
+        "region": "Foreign"
+    },
+    {
+        "name": "Spotted Seal",
+        "status": "ESA Threatened - Foreign",
+        "year": "2010",
+        "region": "Foreign"
+    },
+    {
+        "name": "Staghorn Coral",
+        "status": "ESA Threatened",
+        "year": "2006",
+        "region": "Southeast"
+    },
+    {
+        "name": "Steelhead Trout",
+        "status": "ESA Endangered ESA Threatened ESA Threatened ESA Threatened ESA Threatened ESA Threatened ESA Threatened ESA Threatened ESA Threatened ESA Threatened ESA Threatened ESA Experimental Population",
+        "year": "1997 1998 1997 1998 1999 2000 2007 2006 1997 2006; 1997 (original) 1999 -",
+        "region": "Alaska West Coast Alaska West Coast Alaska West Coast Alaska West Coast Alaska West Coast Alaska West Coast Alaska West Coast Alaska West Coast Alaska West Coast Alaska West Coast Alaska West Coast Alaska West Coast"
+    },
+    {
+        "name": "Steller Sea Lion",
+        "status": "ESA Endangered",
+        "year": "1997; 1990 (original)",
+        "region": "Alaska West Coast"
+    },
+    {
+        "name": "Striped Smoothhound Shark",
+        "status": "ESA Endangered - Foreign",
+        "year": "2017",
+        "region": "Foreign"
+    },
+    {
+        "name": "Taiwanese Humpback Dolphin",
+        "status": "ESA Endangered - Foreign",
+        "year": "2018",
+        "region": "Foreign"
+    },
+    {
+        "name": "Totoaba",
+        "status": "ESA Endangered - Foreign",
+        "year": "1979",
+        "region": "Foreign"
+    },
+    {
+        "name": "Tubastraea floreana Coral",
+        "status": "ESA Endangered - Foreign",
+        "year": "2015",
+        "region": "Foreign"
+    },
+    {
+        "name": "Vaquita",
+        "status": "ESA Endangered - Foreign",
+        "year": "1985",
+        "region": "Foreign"
+    },
+    {
+        "name": "White Abalone",
+        "status": "ESA Endangered",
+        "year": "2001",
+        "region": "West Coast"
+    },
+    {
+        "name": "Yelloweye Rockfish",
+        "status": "ESA Threatened",
+        "year": "2010",
+        "region": "Alaska West Coast"
+    }
+]
